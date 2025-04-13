@@ -1,0 +1,49 @@
+# Big Data Programming Project – 5004CMD
+
+## 🚀 Project Title:
+**Optimizing Mobility Data Analysis Using Big Data Techniques**
+
+## 🧠 Overview
+This project analyzes large-scale mobility data from the Bureau of Transportation Statistics to understand how people travel across the US. It applies parallel computing with Dask and traditional pandas to compare performance and builds regression models to simulate travel frequency.
+
+## 📂 Datasets Used
+- `Trips_By_Distance.csv`
+- `Trips_Full Data.csv`
+
+## 🔧 Technologies
+- Python 3.x
+- Pandas
+- Dask
+- Matplotlib / Seaborn
+- scikit-learn
+- Jupyter Notebook / VS Code
+
+## ⚙️ How to Run
+1. Clone the repo
+2. Open `.ipynb` or `.py` files in Jupyter or VS Code
+3. Ensure required packages are installed (`pip install -r requirements.txt`)
+4. Run each section block by block
+
+## 📈 Features
+- Weekly analysis of population staying home
+- Distance-based travel behavior visualization
+- Parallel vs serial data processing performance
+- Linear regression for travel frequency modeling
+
+## 🗃️ Folder Structure
+/src → All source code  
+/data → CSV datasets  
+/plots → Saved visualizations  
+/report.docx → Final report (Word)  
+README.md → This file
+
+## 👤 Author
+[Nicole Okpala]  
+Coventry University | 5004CMD – Integrative Project  
+Lecturer: Dr. Katerina Stamou
+
+## 📎 References
+APA-style citations in final report
+
+## 📌 Disclaimer
+This repository is for academic purposes only.
